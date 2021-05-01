@@ -1,0 +1,1 @@
+# Kurye-Otomasyonu-SQL-Ve-Rapor
